@@ -48,3 +48,5 @@ private:
 
 
 };
+
+#endif //K_MEANS_SEQUENZIALE_POINT_H
